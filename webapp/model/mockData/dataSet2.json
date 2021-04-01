@@ -1,0 +1,38 @@
+{
+	"empStr": {
+		"empNo": 500,
+		"eName": "Jessica",
+		"Salary": "25000",
+		"currency": "EUR",
+		"Smoker": true,
+		"alia":true
+	},
+	"empTab": [{
+			"empoNo": 900,
+			"ename": "Osman",
+			"salary": 4800,
+			"currency": "USD"
+		},
+		{
+			"empoNo": 901,
+			"ename": "Syed",
+			"salary": 8900,
+			"currency": "USD"
+		},
+		{
+			"empoNo": 903,
+			"ename": "Rafiq",
+			"salary": 7400,
+			"currency": "USD"
+		},
+		{
+			"empoNo": 904,
+			"ename": "Oswarld",
+			"salary": 8800,
+			"currency": "USD"
+		}
+
+
+
+	]
+}
